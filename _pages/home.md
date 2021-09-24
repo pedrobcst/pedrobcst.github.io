@@ -1,0 +1,7 @@
+---
+permalink: /
+title: "Hello"
+
+---
+Hello.
+
