@@ -81,7 +81,7 @@ layout: single
 * [DOI](https://doi.org/10.1063/5.0004973)
 
 ---
-* _Title_: Pressure-induced superconductivity in SnSb$_{2}$Te$_{4}$
+* _Title_: Pressure-induced superconductivity in SnSb$\_{2}$Te$\_{4}$
 * _Authors_: Peng Song, Ryo Matsumoto, Zhufeng Hou, Shintaro Adachi, Hiroshi Hara, Yoshito Saito, **P B Castro**, Hiroyuki Takeya, and Yoshihiko Takano
 * _Journal_: Journal of Physics: Condensed Matter
 * _Date_: 2020 / mar
