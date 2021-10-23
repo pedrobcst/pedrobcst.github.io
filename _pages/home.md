@@ -6,7 +6,7 @@ title: "Welcome"
 Hello! Welcome to my personal page. My name is Pedro, and I`m currently (as of time of writing) \\
 a second year PhD student in Materials Science and Engineering, at the National Institute for Materials Science (NIMS) / University of Tsukuba in Tsukuba, Japan.
 
-My current work involves in optimizing/searching magnetocaloric materials for possible use in solid-state hydrogen liquefaction systems.\
+My current work involves in optimizing/searching magnetocaloric materials for possible use in solid-state hydrogen liquefaction systems.
 
 To achieve this, I mostly work with using data-driven models (constructed on experimental data), together with "traditional" methods (ie. chemical substituion)
 to optimize and search for such materials. I use a lot of python to automatize my analysis (to quickly deal with characterization data, mostly magnetization). 
