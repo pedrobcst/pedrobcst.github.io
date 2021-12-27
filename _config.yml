@@ -60,17 +60,14 @@ author:
   name   : "Pedro B. C."
   avatar : "https://github.com/pedrobcst/pedrobcst.github.io/raw/5c4f0923ab8c94e96c85bc7d3541667a719ab47f/assets/images/bio-photo.jpg"
   bio    : "
-            * PhD Student @ NIMS.\
-
-            * Magnetocaloric materials for liquid hydrogen liquefaction\
+            * 2nd year PhD @ NIMS.\
 
             * Data-driven methods for new materials search\
 
-            * Experimental Data Analysis Automation"
+            * Experimental Data Analysis Automation\
+
+            * Magnetocaloric materials for liquid hydrogen liquefaction"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://pedrobcst.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pedrobcst/"
