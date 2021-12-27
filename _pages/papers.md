@@ -39,14 +39,22 @@ layout: single
 * _Volume_: 969
 * [DOI](https://doi.org/10.1088/1742-6596/969/1/012050)
 
-# Co-Author 
+# Co-Author
+---      
+* _Title_: High-Tc Superconducting Hydrides Formed by LaH$\_{24}$ and YH$\_{24}$ Cage Structures as Basic Blocks.
+* _Authors_: Peng Song, Zhufeng Hou, **Pedro Baptista de Castro**, Kousuke Nakano, Kenta Hongo, Yoshihiko Takano and Ryo Maezono
+* _Journal_: Chemistry of Materials
+* _Date_: 2021 / dez
+* _Volume_: xx
+* [DOI](https://doi.org/10.1021/acs.chemmater.1c02371)
+
  ---
-* _Title_: Gas-atomized particles of giant magnetocaloric compound HoB$_{2}$ for magnetic hydrogen liquefiers.
-* _Authors_: Takafumi D. Yamamoto, Hiroyuki Takeya, Akiko T. Saito, Kensei Terashima, **Pedro Baptista de Castro**, Takenori Numazawa, and Yoshihiko Takano
-* _Journal_: Applied Physics A
-* _Date_: 2021 / apr
-* _Volume_: 127
-* [DOI](https://doi.org/10.1007/s00339-021-04458-0)
+* _Title_: Al substitution effect on magnetic properties of magnetocaloric material HoB$_{2}$.
+* _Authors_: Suguru Iwasaki, Takafumi D Yamamoto, **Pedro Baptista de Castro**, Kensei Terashima, Hiroyuki Takeya, Yoshihiko Takano and Yoshihiko Takano
+* _Journal_: Solid State Communications
+* _Date_: 2021 / dez
+* _Volume_: 114616
+* [DOI](https://doi.org/10.1016/j.ssc.2021.114616)
 
 ---
 * _Title_: SuperMat: construction of a linked annotated dataset from superconductors-related publications
